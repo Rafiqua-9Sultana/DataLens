@@ -158,3 +158,18 @@ Aspiring AI and Machine Learning Engineer
 <p align="center">
   Built with ❤️ using React, TypeScript, and modern data visualization tools.
 </p>
+---
+
+## 📸 Dashboard Preview
+
+Explore the DataLens application dashboard.
+
+<div align="center">
+
+<a href="screenshots/Datalens-dashboard.pdf">
+  <img src="https://img.shields.io/badge/📊_View_Dashboard-Open_PDF-00A896?style=for-the-badge" />
+</a>
+
+</div>
+
+---
